@@ -10,6 +10,9 @@ namespace ConsoleApp22
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+
+            Console.ReadLine();
         }
     }
 }
